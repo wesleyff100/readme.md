@@ -1,8 +1,10 @@
 # Wesley.Dev
 
-[![Anurag's GitHub stats](github-readme-stats-kohl-six-80.vercel.app/api?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-wesleyff100s-projects.vercel.app/api?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
 
-[![Top Langs](github-readme-stats-kohl-six-80.vercel.app/api/top-langs/?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-wesleyff100s-projects.vercel.app/api?username=wesleyff100&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats-wesleyff100s-projects.vercel.app/api/top-langs/?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
 
 
 <div> 
