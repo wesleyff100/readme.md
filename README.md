@@ -1,13 +1,13 @@
-# Wesley.Dev [Haany here!]()  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+# Wesley.Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">There are types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I am Learning
 * HTML5/CSS/Javascript/Typescript
 * Python/Java/C#
-* Erase the SQL databese
+* Erase the SQL database
 * Frontend and Backend Web Development
 
 <div>
