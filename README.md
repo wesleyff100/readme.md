@@ -1,5 +1,6 @@
-# readme.md
+# Wesley.Dev
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
 
 
 <div> 
