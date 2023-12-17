@@ -1,8 +1,8 @@
 # Wesley.Dev
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
+[![Anurag's GitHub stats](stats-deploy-wesleyff100.vercel.app/api?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
+[![Top Langs](stats-deploy-wesleyff100.vercel.app/api/top-langs/?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
 
 
 <div> 
