@@ -1,22 +1,9 @@
 # Wesley.Dev
 
-<div> 
-  <a href="https://github.com/wesleyff100/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-wesleyff100s-projects.vercel.app/api?username=wesleyff100" />
-  </a>
-  <a href="https://github.com/wesleyff100/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-wesleyff100s-projects.vercel.app/api/top-langs?username=wesleyff100&layout=compact&langs_count=8&card_width=320" />
-  </a>
-<div> 
-
-![Anurag's GitHub stats](https://github-readme-stats-wesleyff100s-projects.vercel.app/api?username=wesleyff100&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats-wesleyff100s-projects.vercel.app/api/top-langs/?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
-
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats-wesleyff100s-projects.vercel.app/api/wakatime?username=wesleyff100)](https://github.com/wesleyff100/github-readme-stats)
-
+<div>
+    <img height="180em" src="https://github-readme-stats-wesleyff100s-projects.vercel.app/api?username=wesleyff100&theme=dark&show_icons=true&rank_icon=github&icon_color=%2303a1fc&custom_title=GitHub%20Stats">
+    <img height="180em" src=https://github-readme-stats-wesleyff100s-projects.vercel.app/api/top-langs/?username=wesleyff100&theme=dark&layout=compact>
+</div>
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
